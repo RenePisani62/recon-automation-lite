@@ -30,3 +30,10 @@ The project is designed to show workflow structure, automation logic, and securi
 
 ## Status
 Active – being developed as a portfolio-safe demonstration of a larger private recon workflow.
+
+## Demo Script
+
+A safe demonstration script is included at:
+
+```text
+scripts/recon-demo.sh
