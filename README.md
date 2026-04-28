@@ -1,7 +1,10 @@
 # Recon Automation Pipeline (Lite)
 
+## Architecture
+Input domains --> chunking/batching --> Subfinder --> httpx/naabu --> nuclei/ffuf --> output for assessment
+
 ## Overview
-This repository demonstrates a sanitised reconnaissance automation pipeline for asset discovery, live host validation, vulnerability scanning, and content discovery.
+This project demonstrates a modular, scalable reconnaissance pipeline aligned with real-world vulnerability discovery workflows.
 
 The project is designed to show workflow structure, automation logic, and security tooling familiarity without exposing real targets or sensitive data.
 
@@ -37,3 +40,9 @@ A safe demonstration script is included at:
 
 ```text
 scripts/recon-demo.sh
+
+## Disclaimer
+
+This project is intended for educational and authorised security testing purposes only.
+
+No real targets, credentials, or sensitive data are included. The pipeline demonstrated here is a sanitised version of a larger private workflow.
