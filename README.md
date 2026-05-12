@@ -1,5 +1,12 @@
 # Recon Automation Pipeline (Lite)
 
+## Legal & Ethical Use
+
+This project is intended for use within authorised bug bounty and security testing programs only.
+
+All testing is conducted against assets explicitly in scope via platforms such as HackerOne.
+
+The author is verified under the Cyber Access program and follows responsible disclosure practices.
 ## Architecture
 Input domains --> chunking/batching --> Subfinder --> httpx/naabu --> nuclei/ffuf --> output for assessment
 
