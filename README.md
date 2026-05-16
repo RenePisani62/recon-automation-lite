@@ -53,3 +53,6 @@ scripts/recon-demo.sh
 This project is intended for educational and authorised security testing purposes only.
 
 No real targets, credentials, or sensitive data are included. The pipeline demonstrated here is a sanitised version of a larger private workflow.
+
+# Update 16/05/2026
+-> Increased port reconnaissance by including more ports.
